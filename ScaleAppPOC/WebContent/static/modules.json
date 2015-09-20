@@ -1,0 +1,7 @@
+[
+  { "name": "Log",        "label": "Log module"           },
+  { "name": "ErrorHandler",    "label": "Error Handler module" },
+  { "name": "UserDetails",    "label": "User Details module" },
+  { "name": "Dashboard",    "label": "Dashboard module" },
+  { "name": "Notification",    "label": "Notification module" }
+]
